@@ -2,29 +2,29 @@ import React from "react";
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-    sunset: "/react-wether-app/icon/temp.svg",
-    sunrise: "/react-wether-app/icon/temp.svg",
-    humidity: "/react-wether-app/icon/humidity.svg",
-    wind: "/react-wether-app/icon/wind.svg",
-    pressure: "/react-wether-app/icon/pressure.svg",
+    sunset: "/react-weather-app/icon/temp.svg",
+    sunrise: "/react-weather-app/icon/temp.svg",
+    humidity: "/react-weather-app/icon/humidity.svg",
+    wind: "/react-weather-app/icon/wind.svg",
+    pressure: "/react-weather-app/icon/pressure.svg",
 };
 
 export const WeatherIcons = {
-    "01d": "/react-wether-app/icon/sunny.svg",
-    "01n": "/react-wether-app/icon/night.svg",
-    "02d": "/react-wether-app/icon/day.svg",
-    "02n": "/react-wether-app/icon/cloudy-night.svg",
-    "03d": "/react-wether-app/icon/cloudy.svg",
-    "03n": "/react-wether-app/icon/cloudy.svg",
-    "04d": "/react-wether-app/icon/perfect-day.svg",
-    "04n": "/react-wether-app/icon/cloudy-night.svg",
-    "09d": "/react-wether-app/icon/rain.svg",
-    "09n": "/icon/rain-night.svg",
-    "10d": "/react-wether-app/icon/rain.svg",
-    "10n": "/react-wether-app/icon/rain-night.svg",
-    "11d": "/react-wether-app/icon/storm.svg",
-    "11n": "/react-wether-app/icon/storm.svg",
-    "50n": "/react-wether-app/icon/rain.svg",
+    "01d": "/react-weather-app/icon/sunny.svg",
+    "01n": "/react-weather-app/icon/night.svg",
+    "02d": "/react-weather-app/icon/day.svg",
+    "02n": "/react-weather-app/icon/cloudy-night.svg",
+    "03d": "/react-weather-app/icon/cloudy.svg",
+    "03n": "/react-weather-app/icon/cloudy.svg",
+    "04d": "/react-weather-app/icon/perfect-day.svg",
+    "04n": "/react-weather-app/icon/cloudy-night.svg",
+    "09d": "/react-weather-app/icon/rain.svg",
+    "09n": "/react-weather-app/icon/rain-night.svg",
+    "10d": "/react-weather-app/icon/rain.svg",
+    "10n": "/react-weather-app/icon/rain-night.svg",
+    "11d": "/react-weather-app/icon/storm.svg",
+    "11n": "/react-weather-app/icon/storm.svg",
+    "50n": "/react-weather-app/icon/rain.svg",
 };
 
 const WeatherCondition = styled.div`
